@@ -1,0 +1,23 @@
+[
+{
+"n": "Events by Role",
+"i": "eventsbyrole",
+"t": 8,
+"d": "An Events view that displays participants in separate columns for each event role.",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "EventsByRole.addon.tgz"
+},
+{
+"n": "Osoby z identyfikatorem zdarzenia",
+"i": "PeopleWithEventId",
+"t": 13,
+"d": "Dopasowuje osoby, kt\u00f3re bra\u0142y udzia\u0142 w zdarzeniu o podanym identyfikatorze Gramps, bez wzgl\u0119du na ich rol\u0119.",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "EventParticipantsById.addon.tgz",
+"h": "https://github.com/Rogue05/Gramps-filter#readme"
+}
+]

@@ -1,24 +1,23 @@
 [
-  {
-    "n": "People with event ID",
-    "i": "PeopleWithEventId",
-    "t": 13,
-    "d": "Finds every person who participated in the event with the specified Gramps ID, regardless of their role.",
-    "v": "1.0.0",
-    "g": "6.0",
-    "s": 3,
-    "z": "EventParticipantsById.addon.tgz",
-    "h": "https://github.com/Rogue05/Gramps-filter"
-  },
-  {
-    "n": "Events by Role",
-    "i": "eventsbyrole",
-    "t": 8,
-    "d": "An Events view that displays participants in separate columns for each event role.",
-    "v": "1.0.0",
-    "g": "6.0",
-    "s": 3,
-    "z": "EventsByRole.addon.tgz",
-    "h": "https://github.com/Rogue05/Gramps-filter"
-  }
+{
+"n": "Events by Role",
+"i": "eventsbyrole",
+"t": 8,
+"d": "An Events view that displays participants in separate columns for each event role.",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "EventsByRole.addon.tgz"
+},
+{
+"n": "People with event ID",
+"i": "PeopleWithEventId",
+"t": 13,
+"d": "Matches people who participated in the event with the specified Gramps ID, regardless of their role.",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "EventParticipantsById.addon.tgz",
+"h": "https://github.com/Rogue05/Gramps-filter#readme"
+}
 ]
