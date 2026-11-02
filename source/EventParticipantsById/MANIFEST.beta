@@ -1,0 +1,12 @@
+# MANIFEST.beta for EventParticipantsById
+# β Beta/development build — lists additional files beyond auto-includes.
+# Auto-included in β Beta: *.py, *.gpr.py, *.glade, *.xml, locale/*.mo,
+#   *.md, po/*.po, po/template.pot, MANIFEST, MANIFEST.beta,
+
+EventParticipantsById/*.py
+EventParticipantsById/*.md
+EventParticipantsById/LICENSE
+EventParticipantsById/locale/*
+EventParticipantsById/po/*
+EventParticipantsById/MANIFEST
+EventParticipantsById/MANIFEST.beta

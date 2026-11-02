@@ -1,5 +1,6 @@
 #
 # Gramps - a GTK+/GNOME based genealogy program
+# Copyright 2026     Wojciech Sopot (Rogue05)
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -21,7 +22,8 @@ if (5, 2, 0) <= VERSION_TUPLE < (6, 2, 0):
             "Matches people who participated in the event with the specified "
             "Gramps ID, regardless of their role."
         ),
-        version="1.0.0",
+        authors=["Wojciech Sopot"],
+        version="1.0.1",
         gramps_target_version=major_version,
         status=STABLE,
         fname="EventParticipantsById.py",

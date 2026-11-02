@@ -1,5 +1,6 @@
 #
 # Gramps - a GTK+/GNOME based genealogy program
+# Copyright 2026     Wojciech Sopot (Rogue05)
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

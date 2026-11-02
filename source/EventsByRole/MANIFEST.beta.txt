@@ -1,0 +1,12 @@
+# MANIFEST.beta for EventsByRole
+# β Beta/development build — lists additional files beyond auto-includes.
+# Auto-included in β Beta: *.py, *.gpr.py, *.glade, *.xml, locale/*.mo,
+#   *.md, po/*.po, po/template.pot, MANIFEST, MANIFEST.beta,
+
+EventsByRole/*.py
+EventsByRole/*.md
+EventsByRole/LICENSE
+EventsByRole/locale/*
+EventsByRole/po/*
+EventsByRole/MANIFEST
+EventsByRole/MANIFEST.beta

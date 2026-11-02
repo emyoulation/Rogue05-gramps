@@ -4,10 +4,11 @@
     "i": "eventsbyrole",
     "t": 8,
     "d": "An Events view that displays participants in separate columns for each event role.",
-    "v": "1.0.1",
+    "v": "1.0.2",
     "g": "5.2",
     "s": 3,
-    "z": "EventsByRole.addon.tgz"
+    "z": "EventsByRole.addon.tgz",
+    "h": "https://github.com/Rogue05/Gramps-filter/blob/main/source/EventsByRole/README.md"
   },
   {
     "n": "People with event ID",

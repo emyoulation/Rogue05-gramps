@@ -1,0 +1,42 @@
+# Translation template for the 1.0.1 People with event ID filter rule addon for Gramps.
+# Copyright (C) 2026 Wojciech Sopot
+# This file is distributed under the same license as the People with event ID package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: People with event ID 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-02 13:36-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: EventParticipantsById.gpr.py:20 EventParticipantsById.py:23
+msgid "People with event ID"
+msgstr ""
+
+#: EventParticipantsById.gpr.py:22
+msgid ""
+"Matches people who participated in the event with the specified Gramps ID, "
+"regardless of their role."
+msgstr ""
+
+#: EventParticipantsById.py:22
+msgid "Event Gramps ID:"
+msgstr ""
+
+#: EventParticipantsById.py:25
+msgid ""
+"Matches every person who participated in the event with the specified Gramps "
+"ID, regardless of their role."
+msgstr ""
+
+#: EventParticipantsById.py:28
+msgid "Event filters"
+msgstr ""
